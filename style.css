@@ -1,0 +1,121 @@
+body{
+	background-color: #ffffff; 
+	font-family: 'Open Sans', sans-serif;
+}
+section {
+    margin-top: 50px;
+}
+button{
+	margin-top: 20px;
+}
+/*===================Start Start Header section===================*/
+.navcolor{
+	color:#666666;
+	margin-top:30px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.navcolor:hover{
+	color:#ff8080;
+	margin-top:30px;
+	font-weight: 550;
+	border-radius: 5px 15px 5px 15px;
+}
+/*===================End Start Header section===================*/
+/*===================Start Product and Blog Section===================*/
+.product-text{
+	text-align: center;
+    min-height: 100px;
+}
+#products-sec hr {
+    border: 1px solid rgba(184, 94, 255, 1);
+    width: 30%;
+}
+.product-h3-p p {
+    line-height: 30px;
+    color: #9C9C9C;
+    margin-top:20px: 
+}
+.product-h3-p h3 {
+    color: #666565;
+}
+.image-center{
+	padding-left: 20px;
+	margin-bottom:20px; 
+}
+/*===================Start Blog===================*/
+.blog{
+	background: gray;
+	text-align:center;
+}
+.blog h3{
+	color:#ffffff;
+}
+.blog p{
+	margin-bottom:20px; 
+	padding-top:5px; 
+}
+.blog p a{
+	color:#ffffff;
+}
+.image-left{
+	margin-bottom:20px; 
+}
+/*===================Start Service===================*/
+#service-sec hr {
+    border: 1px solid rgba(184, 94, 255, 1);
+    width: 30%;
+}
+.service-text{
+	text-align: center;
+    min-height: 100px;
+}
+.back{
+	background: #DFE0E2;
+}
+/*===================Start Footer Section===================*/
+#footer-sec {
+    background-color: #232323;
+    color: #fff;
+}
+.left-side{
+	background-color: #181818;
+}
+.left-side h3 {
+    color: #7B7B7B;
+    font-weight: 900;
+}
+/* footer */
+footer {
+	padding-top: 40px;
+	padding-left: 100px;
+}
+.social-icons-container { 
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+	margin-left:140px;
+}
+.social-link {
+	background-color: rgba(255,255,255,0.40);
+    color: black;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    padding-top: 7px;
+    margin-right: 10px;
+    border-radius: 5px 5px;
+}
+.social-link:hover{
+	color: yellow;
+}
+.copyright-text {
+	background-color: rgba(0, 0, 0, 0.3);
+	color: white;
+    display: inline-block;
+    font-size: 1.8rem;
+    font-weight: 400;
+    padding: 5px 12px;
+    width: 100%;
+}
+/*===================End Footer Section===================*/
